@@ -1,0 +1,89 @@
+h1{
+    font-size: xx-large;
+    background-color: #ff8500;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+
+}
+
+body{
+    width: 100%;
+}
+
+p{
+    font-size:x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+    color:#ff7500;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+    max-width: 100%;
+}
+
+nav a{
+    color: #ff7500;
+    background-color: black;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+
+
+nav :hover{
+    zoom: 101%;
+    background-color: #ff7500;
+    color: black;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+    text-decoration: none;
+    outline: none;
+}
+
+nav a:hover{
+    color: black;
+    text-decoration: none;
+    outline: none;
+}
+
+nav :active{
+    background-color: red;
+    color: black;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+    text-decoration: none;
+}
+
+nav ::after{
+    color:#ff5500;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+
+.Content-header{
+    background-color: black;
+    color: #ff7500;
+}

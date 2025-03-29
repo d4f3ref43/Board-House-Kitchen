@@ -1,0 +1,147 @@
+a{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#ff8500;
+    background-color: black;
+    text-decoration: none;
+    outline: none;
+
+}
+
+body{
+    width: 100%;
+    max-width: 100%;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+
+li{
+    display: inline;
+    margin-left: 15%;
+}
+
+img, video {
+    padding: 5px;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+
+video{
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+
+p{
+    font-size:x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size: xx-large;
+    background-color: #ff8500;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2, h3{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.content, .header, .LatestNews, .GalleryBackground, .Gallery, .Background{
+    padding: 8px;
+
+}
+.content-background{
+    background-color: white;
+}
+
+.Content{
+    background-color: #ffa500;
+}
+.Gallery-Background{
+    background-color: #ffb500;
+}
+
+.Gallery{
+    background-color: #ff8500;
+}
+.Photos-and-Videos{
+    background-color: #ff7500;
+}
+
+.Header{
+    background-color: black;
+}
+
+.Photos-and-Videos :hover{
+    zoom: 101%;
+    
+
+
+}
+
+nav{
+    width: 100%;
+    display: inline-flex;
+    border: 0;
+    outline: 5px solid #242322;
+    outline-offset: 10px;
+    justify-content: center;
+    background-color: #242322;
+    padding: 4.5px;
+}
+
+nav :hover{
+    zoom: 101%;
+    background-color: #ff7500;
+    color: black;
+    outline-width: 3px;
+    outline-style: solid;
+    text-decoration: none;
+    outline: none;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+    text-decoration: none;
+}
+
+nav :active{
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+    background-color: red;
+    color: black;
+    text-decoration: none;
+
+}
+nav ::after{
+    color:#ff5500;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+
+.Photo-and-Vid-Background{
+    padding: 8px;
+    background-color: black;
+}
+
+.Photo-and-Vid-Background :hover{
+    padding: 8px;
+    outline-color: #ff5500;
+    outline-width: 3px;
+    outline-style: solid;
+}

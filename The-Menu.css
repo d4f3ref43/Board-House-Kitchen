@@ -1,0 +1,232 @@
+h1{
+    font-size: xx-large;
+    background-color: #ff8500;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+
+}
+
+.Food-Content-Background{
+    width: 100%;
+}
+
+h2, h3{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+
+}
+
+h2{
+    color:#ff8500;
+    background-color: black;
+    
+}
+
+h3{
+    margin-left: 74%;
+    color:black;
+    outline-color: #ff6500;
+    outline-width: 3px;
+    outline-style: solid;
+    padding-left: 1px;
+    width: fit-content;
+}
+
+img, video{
+    padding: 5px;
+    background-color: black;
+}
+
+video :hover{
+    outline-color: #ff6500;
+    outline-width: 3px;
+    outline-style: solid;
+}
+
+
+.Jerk-Chicken-Article-Header{
+    outline-color: #ff6500;
+}
+
+b{
+    color:#ff6500;
+}
+
+a{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#ff8500;
+    background-color: black;
+    margin-left: 0%;
+    padding: 3px;
+    text-decoration: none;
+    
+}
+
+p{
+    font-size:x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav{
+    width: 100%;
+    display: inline-flex;
+    border: 0;
+    justify-content: left;
+    background-color: black;
+    padding-top: 4px;
+    padding-bottom: 7px;
+    padding-right: 7px;
+}
+
+body{
+    padding: 40px;
+}
+
+q{
+    color: #ff5500;
+    font-size: xx-large;
+}
+
+.Background{
+    padding: 5px;
+    outline-color: black;
+    outline-width: 4px;
+    outline-style: solid;
+    width: 100%;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.Jerk-Chicken-Article{
+    padding-top: 3px;
+    padding-left: 8px;
+    padding-right: 8px;
+    outline: black;
+    outline-width: 3px;
+    outline-style: solid;
+    
+    
+}
+
+.Curry-Chicken-Article{
+    padding-top: 3px;
+    padding-left: 8px;
+    padding-right: 8px;
+    outline: black;
+    outline-width: 3px;
+    outline-style: solid;
+}
+
+.Chickpeas-Article{
+    padding-top: 3px;
+    padding-left: 8px;
+    padding-right: 8px;
+    outline: black;
+    outline-width: 3px;
+    outline-style: solid;
+}
+
+.Escovitch-Fish-Article{
+    padding-top: 3px;
+    padding-left: 8px;
+    padding-right: 8px;
+    outline: black;
+    outline-width: 3px;
+    outline-style: solid;
+}
+
+ul, li{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    outline: #ff6500;
+    outline-width: 2px;
+    outline-style: solid;
+}
+
+
+.Food-Articles{
+    color:black;
+    background-color: whitesmoke;
+    width: 100%;
+
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.Jerk-Chicken-Imgs :hover{
+    outline-color: #ff5500;
+    outline-width: 3px;
+    outline-style: solid;
+
+}
+
+.Curry-Chicken-Img :hover{
+    outline-color: #ff5500;
+    outline-width: 3px;
+    outline-style: solid;
+
+}
+
+.Escovitch-Fish-Img :hover{
+    outline-color: #ff5500;
+    outline-width: 3px;
+    outline-style: solid;
+
+}
+
+
+nav :hover{
+    zoom: 101%;
+    background-color: #ff7500;
+    color: black;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+    text-decoration: none;
+}
+
+nav :active{
+    background-color: red;
+    color: black;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+    text-decoration: none;
+}
+
+nav ::after{
+    color:#ff5500;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+
+img, video{
+    max-width: 100%;
+}
+
