@@ -948,3 +948,8 @@ b{
 .contact-footer-1 a:active{
     color: red;
 }
+
+.Survey-article{
+    width: 100%;
+    bakcground-color: white;
+}
