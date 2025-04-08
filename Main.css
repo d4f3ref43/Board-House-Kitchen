@@ -953,3 +953,12 @@ b{
     width: 100%;
     bakcground-color: white;
 }
+
+.Survey-article a{
+    background-color: black;
+    color: #ff7500;
+}
+
+.Survey-article a:hover{
+    color: #ff5500;
+}
