@@ -962,3 +962,7 @@ b{
 .Survey-article a:hover{
     color: #ff5500;
 }
+
+.Survey-article a:active{
+    color: red;
+}
