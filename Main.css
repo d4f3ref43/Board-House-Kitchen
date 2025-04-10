@@ -961,8 +961,24 @@ b{
 
 .Survey-article a:hover{
     color: #ff5500;
+    text-decoration: none;
+    outline-style: solid;
+    outline-width: 3px;
+    border-radius: 25px ;
+    -webkit-border-radius: 25px ;
+    -moz-border-radius: 25px ;
+    -ms-border-radius: 25px ;
+    -o-border-radius: 25px ;
 }
 
 .Survey-article a:active{
     color: red;
+    text-decoration: none;
+    outline-style: solid;
+    outline-width: 3px;
+    border-radius: 25px ;
+    -webkit-border-radius: 25px ;
+    -moz-border-radius: 25px ;
+    -ms-border-radius: 25px ;
+    -o-border-radius: 25px ;
 }
