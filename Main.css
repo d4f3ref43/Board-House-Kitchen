@@ -288,7 +288,7 @@ h1{
     -o-border-radius: 25px;
 }
 
-.Food, .News-Article{
+.Food, .News-Article, .Intro-article{
     background-color: #ff8500;
     width: 95%;
     padding: 5px;;
@@ -306,6 +306,7 @@ h1{
     -ms-border-radius: 25px;
     -o-border-radius: 25px;
     box-sizing: border-box;
+    
 }
 
 .Food img{
@@ -982,4 +983,9 @@ b{
     -moz-border-radius: 25px ;
     -ms-border-radius: 25px ;
     -o-border-radius: 25px ;
+}
+
+.Articles{
+    overflow-x: hidden;
+    overflow-x: scroll;
 }
