@@ -319,10 +319,17 @@ h1{
     max-width: 100%;
 }
 
+.Intro-Article video{
+    width: 250px;
+    max-width: 100%;
+}
+
 
 .Articles{
     display: inline-flex;
     width:99%;
+    overflow-x: hidden;
+    overflow-x: scroll;
 }
 
 .Concept{
