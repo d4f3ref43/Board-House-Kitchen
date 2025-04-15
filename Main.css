@@ -288,7 +288,7 @@ h1{
     -o-border-radius: 25px;
 }
 
-.Food, .News-Article, .Intro-article{
+.Food, .News-Article, .Intro-Article{
     background-color: #ff8500;
     width: 95%;
     padding: 5px;;
