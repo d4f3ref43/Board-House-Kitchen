@@ -223,7 +223,7 @@ footer{
 
 
 
-.Article-Background, .Contact-Background{
+ .Contact-Background{
     width: 100%;
     padding-left: 8px;
     padding-right: 8px;
@@ -232,6 +232,7 @@ footer{
     -moz-border-radius: 25px;
     -ms-border-radius: 25px;
     -o-border-radius: 25px;
+    overflow-x: scroll;
 }
 
 .num{
