@@ -328,7 +328,6 @@ h1{
 
 .Articles{
     display: inline-flex;
-    
     overflow-x: hidden;
     overflow-x: scroll;
 }
