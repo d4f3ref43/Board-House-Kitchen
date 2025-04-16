@@ -307,7 +307,7 @@ h1{
     -ms-border-radius: 25px;
     -o-border-radius: 25px;
     box-sizing: border-box;
-    
+    overfloe-x: scroll;
 }
 
 .Food img{
