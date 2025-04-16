@@ -328,7 +328,7 @@ h1{
 
 .Articles{
     display: inline-flex;
-    width:99%;
+    
     overflow-x: hidden;
     overflow-x: scroll;
 }
@@ -993,7 +993,4 @@ b{
     -o-border-radius: 25px ;
 }
 
-.Articles{
-    overflow-x: hidden;
-    overflow-x: scroll;
-}
+
